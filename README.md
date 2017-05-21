@@ -10,3 +10,6 @@ Each Test and Training data is split into 3 files:
 
 In the script all 3 datasets are combined and then Test and Training data sets are merged. From this new dataset we select the variables that represent a mean or standard deviation and we calculate the average of these variables. 
 The result is stored in a new dataset named "summ_activity_avg.txt".
+
+The Human Activity Recognition Data including it's description can be downloaded from this site.
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
